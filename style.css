@@ -22,3 +22,25 @@ margin: 0 16px;
 font-size: 25px;
 }
 
+.escola-imagem{
+    width: 20%;
+}
+
+.escola{
+    background-color: #FFC600;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    font-size: 38px;
+    padding: 24px 0;
+}
